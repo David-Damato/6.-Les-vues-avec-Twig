@@ -1,0 +1,7 @@
+{
+    "name": "david/quest-twig",
+    "description": "quest twig 6.0",
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
